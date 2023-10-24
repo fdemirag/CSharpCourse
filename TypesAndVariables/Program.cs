@@ -4,6 +4,7 @@
 bool condition = true;
 
 //bool condition = false;
+char character = 'A';
 
 
 byte number4 = 255;
@@ -18,4 +19,7 @@ Console.WriteLine("Number1 is {0}", number1);
 Console.WriteLine("Number1 is {0}", number2);
 Console.WriteLine("Number1 is {0}", number3);
 Console.WriteLine("Number1 is {0}", number4);
+Console.WriteLine("Character is {0};", character);
+
+Console.WriteLine("Character is {0};", (int)character);
 Console.ReadLine();
