@@ -2,14 +2,26 @@
 {
     private static void Main(string[] args)
     {
+        int number = 10;
+        do
+        {
+            Console.WriteLine(number);
+            number--;
+        }
+        while (number >= 1);
+
+
+        Console.ReadLine();
+    }
+
+    private static void WhileLoop()
+    {
         int number = 100;
         while (number >= 0)
         {
             Console.WriteLine(number);
             number--;
         }
-
-         Console.ReadLine();
     }
 
     private static void ForLoop()
