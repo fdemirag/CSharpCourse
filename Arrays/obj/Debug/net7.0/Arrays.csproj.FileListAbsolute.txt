@@ -1,0 +1,15 @@
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Arrays/obj/Debug/net7.0/ref/Arrays.dll
