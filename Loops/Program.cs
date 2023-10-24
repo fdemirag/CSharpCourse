@@ -2,6 +2,19 @@
 {
     private static void Main(string[] args)
     {
+        string[] students = new string[3] { "Engin", "Derin", "Salih" };
+
+        foreach (var student in students)
+        {
+            Console.WriteLine(student);
+        }
+
+
+        Console.ReadLine();
+    }
+
+    private static void DoWhileLoop()
+    {
         int number = 10;
         do
         {
@@ -9,9 +22,6 @@
             number--;
         }
         while (number >= 1);
-
-
-        Console.ReadLine();
     }
 
     private static void WhileLoop()
