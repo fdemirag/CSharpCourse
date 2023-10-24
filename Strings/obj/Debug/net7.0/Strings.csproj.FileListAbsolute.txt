@@ -1,0 +1,15 @@
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/bin/Debug/net7.0/Strings
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/bin/Debug/net7.0/Strings.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/Strings.csproj.AssemblyReference.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/Strings.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Strings/obj/Debug/net7.0/ref/Strings.dll
