@@ -1,6 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //value types
 //Console.WriteLine("Hello, World!");
+bool condition = true;
+
+//bool condition = false;
+
+
 byte number4 = 255;
 
 //short number3 = 32767;
