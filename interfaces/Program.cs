@@ -5,13 +5,28 @@ internal class Program
     private static void Main(string[] args)
     {
         // InterfacesIntro();
-       CustomerManager customerManager = new CustomerManager();
-        customerManager.Add(new SqlServerCustomerDal());
+        //Demo();
+        ICustomerDal[] customerDals = new ICustomerDal[3]
+        {
+            new SqlServerCustomerDal(),
+            new OracleCustomerDal(),
+            new MySqlServerCustomerDal()
+        };
 
+        foreach (var customerDal in customerDals)
+        {
+            customerDal.Add();
+        }
 
         Console.ReadLine();
 
 
+    }
+
+    private static void Demo()
+    {
+        CustomerManager customerManager = new CustomerManager();
+        customerManager.Add(new SqlServerCustomerDal());
     }
 
     private static void InterfacesIntro()
