@@ -1,6 +1,20 @@
-﻿internal class Program
+﻿using interfaces;
+
+internal class Program
 {
     private static void Main(string[] args)
+    {
+        // InterfacesIntro();
+       CustomerManager customerManager = new CustomerManager();
+        customerManager.Add(new SqlServerCustomerDal());
+
+
+        Console.ReadLine();
+
+
+    }
+
+    private static void InterfacesIntro()
     {
         PersonManager manager = new PersonManager();
         Customer customer = new Customer
@@ -19,11 +33,8 @@
         };
         manager.add(customer);
         manager.add(student);
-
-        Console.ReadLine();
-                
-                    
     }
+
     interface IPerson
     {
         int Id { get; set; }
