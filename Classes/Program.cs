@@ -13,8 +13,21 @@
             productManager.add();
             productManager.update();
 
-      
-        Console.ReadLine();
+            Customer customer = new Customer();
+            customer.City = "Bursa";
+            customer.Id = 1;
+            customer.FirstName = "Fatih";
+            customer.LastName = "Demirağ";
+
+            Customer customer2 = new Customer
+            {
+                City = "Bursa", FirstName = "Fatih", Id = 1,LastName="Demirağ"
+            };
+
+            Console.WriteLine(customer.LastName);
+
+
+            Console.ReadLine();
 
     }
 
