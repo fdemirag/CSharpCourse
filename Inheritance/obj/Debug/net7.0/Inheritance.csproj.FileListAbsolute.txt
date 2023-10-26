@@ -1,0 +1,15 @@
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/fatihdemirag/Desktop/CSharp/CSharpCourse/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll
